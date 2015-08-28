@@ -1,6 +1,6 @@
 # _Bands and Venues_
 
-##### _Allows the user to keep track of bands and the venues where they played concerts (working progress) , August 28, 2015_
+##### _Allows the user to keep track of bands and the venues where they played concerts using many to many relationship with Active Record, August 28, 2015_
 
 #### By _**Trevor Scherling**_
 
